@@ -177,7 +177,7 @@ public class ejercicioComplementario extends javax.swing.JFrame {
         f1.setVisible(true);
         
     }//GEN-LAST:event_FormularioPOO1MenuItemActionPerformed
-
+   
     private void MainMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_MainMenuItemActionPerformed
         // TODO add your handling code here:
         Main m = new Main();
@@ -201,7 +201,17 @@ public class ejercicioComplementario extends javax.swing.JFrame {
         Logueo lg = new Logueo();
         lg.setVisible(true);
     }//GEN-LAST:event_LogueoMenuItemActionPerformed
-
+    //Añadir internal jframe
+    /*
+    Esto es una prueba para saber si github detecta los cambios de que he hecho 
+    esto 
+    esto 
+    esto
+    esto
+    esto
+    
+    */
+    
     private void contentMenuItemActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_contentMenuItemActionPerformed
         // TODO add your handling code here:
         Imagenes imgs = new Imagenes();
